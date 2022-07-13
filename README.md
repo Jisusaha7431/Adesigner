@@ -7,9 +7,9 @@
 
 
 
-•√ (INSTALL PROCESS TERMUX) ***
+•√ (INSTALL AND RUN PROCESS....) ***
 
-
+*(Follow me)*...
 
 
 
