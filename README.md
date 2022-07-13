@@ -7,7 +7,7 @@
 
 
 
-•√INSTALL PROCESS TERMUX)***
+•√ (INSTALL PROCESS TERMUX) ***
 
 
 
